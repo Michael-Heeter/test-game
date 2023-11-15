@@ -1,0 +1,10 @@
+{"simpleMelee":[{"name":"club","cost":"10","damage":"1d4","type":"bludgeoning","weight":"2","properties":["light"]},
+{"name":"dagger","cost":"200","damage":"1d4","type":"piercing","weight":"1","properties":["finesse", "light", "thrown (20/60)"]},
+{"name":"greatclub","cost":"20","damage":"1d8","type":"bludgeoning","weight":"10","properties":["two-handed"]},
+{"name":"handaxe","cost":"500","damage":"1d6","type":"slashing","weight":"2","properties":["light", "thrown (20/60)"]},
+{"name":"javalin","cost":"50","damage":"1d6","type":"piercing","weight":"2","properties":["thrown (30/120)"]},
+{"name":"light hammer","cost":"200","damage":"1d4","type":"bludgeoning","weight":"2","properties":["light", "thrown (20/60)"]},
+{"name":"mace","cost":"500","damage":"1d6","type":"bludgeoning","weight":"4","properties":["-"]},
+{"name":"quarterstaff","cost":"20","damage":"1d6","type":"bludgeoning","weight":"4","properties":["versatile"]},
+{"name":"sickle","cost":"100","damage":"1d4","type":"slashing","weight":"2","properties":["light"]},
+{"name":"spear","cost":"100","damage":"1d6","type":"piercing","weight":"3","properties":["thrown (20/60)","versatile"]}]}
