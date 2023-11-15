@@ -40,10 +40,10 @@ CREATE TABLE skills(
     sleight_of_hand INT,
     stealth INT,
     survival INT,
-    light_armor BOOLEAN,
-    medium_armor BOOLEAN,
-    heavy_armor BOOLEAN,
-    shields BOOLEAN,
-    simple_weapons BOOLEAN,
-    martial_weapons BOOLEAN
+    light_armor INT,
+    medium_armor INT,
+    heavy_armor INT,
+    shields INT,
+    simple_weapons INT,
+    martial_weapons INT
 );
